@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MIUI Separate Volume Control</string>
+    <string name="description">Control notifications volume separately from ring volume on MIUI!</string>
+</resources>
